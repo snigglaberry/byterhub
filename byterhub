@@ -295,7 +295,7 @@ OthersTab:CreateButton({
             Duration = 3
         })
         task.wait(1)
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/snigglaberry/byterhub/984d611638c0626eba3d6fbaa445affd19b6fe22/byterhub"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/snigglaberry/byterhub/refs/heads/main/byterhub"))()
     end
 })
 
